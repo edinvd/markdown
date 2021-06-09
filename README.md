@@ -1,4 +1,11 @@
-# Markdown 
+<div align = "center">
+    <h1><strong>Markdown</font></strong></h1>
+</div>
+
+<div align = "center">
+    <img src="./img/markdown.svg"  width="100px" alt="Markdown logo">
+</div>
+
 Lenguaje de marcado ligero para crear formatos sofisticados con sintaxis simple.
  
 ## Encabezados

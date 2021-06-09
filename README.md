@@ -19,3 +19,16 @@ Para crear un encabezado, agrega uno a seis símbolos `#` antes del encabezado d
 #### El cuarto encabezado
 ##### El quinto encabezado 
 ###### El encabezado más pequeño
+
+#
+
+## Estilo de texto
+Puedes indicar énfasis con texto en negrita, cursiva o tachado.
+
+| Estilo | Sintaxis | Atajo del teclado | Ejemplo | Resultado
+|--|--|--|--|--|
+| Negrita | `** ** o __ __` | command/control + b |` **Este texto está en negrita** ` | __Este texto está en negrita__ |
+| Cursiva | `* * o _ _` | command/control + i | `*Este texto está en cursiva*` | _Este texto está en cursiva_ |
+| Tachado | `~~ ~~` | | `~~Este texto está equivocado~~` | ~~Este texto está equivocado~~|
+| Cursiva en negrita y anidada | `** ** y _ _` | | `**Este texto es _extremadamente_ importante**` | **Este texto es** _extremadamente_ **importante** |
+| Todo en negrita y cursiva	| `*** ***` | | `***Todo este texto es importante***` | ***Todo este texto es importante***|

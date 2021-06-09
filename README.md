@@ -39,3 +39,17 @@ Puedes indicar énfasis con texto en negrita, cursiva o tachado.
 | Tachado | `~~ ~~` | | `~~Este texto está equivocado~~` | ~~Este texto está equivocado~~|
 | Cursiva en negrita y anidada | `** ** y _ _` | | `**Este texto es _extremadamente_ importante**` | **Este texto es** _extremadamente_ **importante** |
 | Todo en negrita y cursiva	| `*** ***` | | `***Todo este texto es importante***` | ***Todo este texto es importante***|
+
+#
+
+## Cita de texto
+Puedes citar texto con un `>`.
+
+```markdown
+Make humanity a multiplanet species!
+> Elon Musk
+```
+
+Make humanity a multiplanet species!
+
+> Elon Musk

@@ -53,3 +53,34 @@ Make humanity a multiplanet species!
 Make humanity a multiplanet species!
 
 > Elon Musk
+
+#
+
+## Código de cita
+Puedes indicar un código o un comando dentro de un enunciado con comillas simples. El texto dentro de las comillas simples no será formateado.
+
+```
+Usa `git status` para enumerar todos los archivos nuevos o modificados que aún no han sido confirmados.
+```
+
+Usa `git status` para enumerar todos los archivos nuevos o modificados que aún no han sido confirmados.
+
+Para formatear código o texto en su propio bloque distintivo, usa comillas triples.
+
+```
+Algunos de los comandos de Git básicos son:
+
+```->
+git status
+git add
+git commit
+```<-
+```
+
+Algunos de los comandos de Git básicos son:
+
+```
+git status
+git add
+git commit
+```

@@ -3,7 +3,7 @@
 </div>
 
 <div align = "center">
-    <img src="./img/markdown.svg"  width="100px" alt="Markdown logo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg"  width="100px" alt="Markdown logo">
 </div>
 
 Lenguaje de marcado ligero para crear formatos sofisticados con sintaxis simple.

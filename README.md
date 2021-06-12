@@ -27,7 +27,6 @@ Para crear un encabezado, agrega uno a seis símbolos `#` antes del encabezado d
 ##### El quinto encabezado 
 ###### El encabezado más pequeño
 
-#
 
 ## Estilo de texto
 Puedes indicar énfasis con texto en negrita, cursiva o tachado.
@@ -40,7 +39,6 @@ Puedes indicar énfasis con texto en negrita, cursiva o tachado.
 | Cursiva en negrita y anidada | `** ** y _ _` | | `**Este texto es _extremadamente_ importante**` | **Este texto es** _extremadamente_ **importante** |
 | Todo en negrita y cursiva	| `*** ***` | | `***Todo este texto es importante***` | ***Todo este texto es importante***|
 
-#
 
 ## Cita de texto
 Puedes citar texto con un `>`.
@@ -54,7 +52,6 @@ Make humanity a multiplanet species!
 
 > Elon Musk
 
-#
 
 ## Código de cita
 Puedes indicar un código o un comando dentro de un enunciado con comillas simples. El texto dentro de las comillas simples no será formateado.
